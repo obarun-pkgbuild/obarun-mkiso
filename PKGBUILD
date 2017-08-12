@@ -2,9 +2,9 @@
 
 
 pkgname=obarun-mkiso
-_commit=38fe127cdcee1d1fe388ce02837b657fb5478ea8 # tag v0.0.7
+_commit=ff5068bdbdd5b44b498c2979f0049ba3d23040b8 # tag v0.0.7 , fix sourcing /etc/obarun/mkiso.conf
 pkgver=0.0.7
-pkgrel=1
+pkgrel=2
 pkgdesc=" Script for making an iso"
 arch=(x86_64)
 url="https://github.com/Obarun/obarun-mkiso"
